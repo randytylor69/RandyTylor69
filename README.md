@@ -1,7 +1,7 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/RandyTylor69/Readme_Images/refs/heads/main/Defiant_Jazz/Girl_Rotting.png" width="550" >
   <p align="center"><i>How your pull requests find me</i></p>
-</div>
+</div> -->
 
 &nbsp;
 
