@@ -8,7 +8,7 @@
 <p>Python + TypeScript dev, </p>
 <p>Here's my <a href="https://ziyinmao.vercel.app" target="_blank">portfolio</a>. </p>
 <!-- <p>Peer-pressured to share my <a href="https://github.com/RandyTylor69/dwm-config" target="_blank">Arch Linux Build (DWM)</a> </p> -->
-<p>I work with these tools: </p>
+<p>Tools I work with: </p>
 
 &nbsp;
 <div align="center">
