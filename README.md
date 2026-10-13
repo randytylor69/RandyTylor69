@@ -1,7 +1,3 @@
-&nbsp;
-
 recreational programming
-
-&nbsp;
 
 
